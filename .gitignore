@@ -1,0 +1,8 @@
+# игнорируем все 
+
+.*
+
+#кроме .gitignore
+!.gitignore
+
+node_models/
